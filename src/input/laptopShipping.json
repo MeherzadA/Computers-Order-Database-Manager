@@ -1,0 +1,69 @@
+{
+  "orderStatus": {
+    "currentStatus": "In progress",
+    "statusNumber": 1
+  },
+  "quantity": 9,
+  "type": "shipping",
+  "customerInfo": {
+    "firstName": "Cassidy",
+    "lastName": "Sawayn",
+    "email": "Cassidy36@yahoo.ca",
+    "phoneNumber": "(247)385-7799 x3744",
+    "address": "278 Kutch Falls, Betsyville, NU P1C 5H1, Canada"
+  },
+  "shippingInfo": {
+    "billingAddress": "278 Kutch Falls, Betsyville, NU P1C 5H1, Canada",
+    "shippingAddress": "659 Steuber Path, Fort Tedton, NT P7M 0W1, Canada",
+    "shippingCompany": "FedEx"
+  },
+  "computer": {
+    "type": "laptop",
+    "primaryHardware": {
+      "CPU": {
+        "brand": "Ryzen",
+        "model": "Ryzen 7 3700X",
+        "price": 329,
+        "cores": 8,
+        "threads": 16,
+        "processingSpeed": 3.6
+      },
+      "GPU": {
+        "brand": "Nvidia",
+        "model": "GeForce GTX 1060",
+        "price": 299,
+        "rayTracing": false,
+        "clockSpeed": 1.7,
+        "VRAM": 6
+      },
+      "RAM": {
+        "brand": "GSkill",
+        "model": "Flare X",
+        "price": 409.6,
+        "capacity": 32,
+        "speedMHz": 3200,
+        "type": "DDR4"
+      },
+      "motherboard": {
+        "brand": "GIGABYTE",
+        "model": "Republic Of Gamers STRIX X670E-A GAMING WIFI",
+        "price": 369.99,
+        "size": "ATX",
+        "hasWifi": true
+      },
+      "storage": {
+        "brand": "Kingston",
+        "model": "DC500M",
+        "price": 100.04,
+        "capacityGB": 480,
+        "speedMBps": 560
+      }
+    },
+    "additionalHardware": {
+      "hasFingerprintScanner": true,
+      "hasTouchscreen": true,
+      "has360Hinge": false,
+      "additionalStorage": null
+    }
+  }
+}

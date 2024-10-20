@@ -1,0 +1,97 @@
+{
+  "orderStatus": {
+    "currentStatus": "In progress",
+    "statusNumber": 1
+  },
+  "quantity": 7,
+  "type": "pickup",
+  "customerInfo": {
+    "firstName": "Holden",
+    "lastName": "Waelchi",
+    "email": "Holden.Waelchi98@yahoo.ca",
+    "phoneNumber": "643-861-2323 x463",
+    "address": "6967 Boyer Hill, Cambridge, NT V7I 7A4, Canada"
+  },
+  "pickupInfo": {
+    "billingAddress": "6967 Boyer Hill, Cambridge, NT V7I 7A4, Canada",
+    "pickupAddress": "140 Wilderman Ways, D'Amoreside, ON K9I 7O2, Canada"
+  },
+  "computer": {
+    "type": "gaming",
+    "primaryHardware": {
+      "CPU": {
+        "brand": "Intel",
+        "model": "Core i7 13700",
+        "price": 384,
+        "cores": 8,
+        "threads": 24,
+        "processingSpeed": 2.1
+      },
+      "GPU": {
+        "brand": "Nvidia",
+        "model": "GeForce RTX 2070",
+        "price": 499,
+        "rayTracing": true,
+        "clockSpeed": 1.62,
+        "VRAM": 8
+      },
+      "RAM": {
+        "brand": "Kingston",
+        "model": "Fury Renegade RGB",
+        "price": 169.99,
+        "capacity": 16,
+        "speedMHz": 4000,
+        "type": "DDR4"
+      },
+      "motherboard": {
+        "brand": "MSI",
+        "model": "B460M-A PRO",
+        "price": 69.99,
+        "size": "Micro-ATX",
+        "hasWifi": false
+      },
+      "storage": {
+        "brand": "Western Digital",
+        "model": "Green",
+        "price": 109.99,
+        "capacityGB": 960,
+        "speedMBps": 545
+      }
+    },
+    "computerCase": {
+      "brand": "DeepCool",
+      "model": "CK560",
+      "price": 89.99,
+      "size": "ATX",
+      "material": "SGCC Steel, Clear Tempered Glass",
+      "colour": "cyan"
+    },
+    "cooler": {
+      "brand": "DeepCool",
+      "model": "CG560",
+      "price": 109.99,
+      "rpm": 1800,
+      "type": "air",
+      "fanCount": 1,
+      "colour": "azure"
+    },
+    "powerSupply": {
+      "brand": "Corsair",
+      "model": "RM1200x SHIFT (Refurbished)",
+      "price": 223.78,
+      "wattage": 1200
+    },
+    "additionalHardware": {
+      "hasRgbStrips": false,
+      "extraFansCount": 2,
+      "useNoiseCancellingFans": false,
+      "additionalStorage": {
+        "brand": "Kingston",
+        "model": "XS2000",
+        "price": 449.99,
+        "capacityGB": 4000,
+        "speedMBps": 2000
+      }
+    }
+  }
+}

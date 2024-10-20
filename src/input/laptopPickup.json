@@ -1,0 +1,67 @@
+{
+  "orderStatus": {
+    "currentStatus": "In progress",
+    "statusNumber": 1
+  },
+  "quantity": 3,
+  "type": "pickup",
+  "customerInfo": {
+    "firstName": "Veda",
+    "lastName": "Murazik",
+    "email": "Veda96@hotmail.com",
+    "phoneNumber": "(869)915-9473 x724",
+    "address": "556 Howe Fort, Jewelborough, NS S1I 6H5, Canada"
+  },
+  "pickupInfo": {
+    "billingAddress": "556 Howe Fort, Jewelborough, NS S1I 6H5, Canada",
+    "pickupAddress": "140 Wilderman Ways, D'Amoreside, ON K9I 7O2, Canada"
+  },
+  "computer": {
+    "type": "laptop",
+    "primaryHardware": {
+      "CPU": {
+        "brand": "Ryzen",
+        "model": "Ryzen 5 7600X",
+        "price": 349,
+        "cores": 6,
+        "threads": 12,
+        "processingSpeed": 3.8
+      },
+      "GPU": {
+        "brand": "Nvidia",
+        "model": "GeForce RTX 2080",
+        "price": 699,
+        "rayTracing": true,
+        "clockSpeed": 1.71,
+        "VRAM": 8
+      },
+      "RAM": {
+        "brand": "GSkill",
+        "model": "Trident Z5",
+        "price": 329.99,
+        "capacity": 16,
+        "speedMHz": 4600,
+        "type": "DDR5"
+      },
+      "motherboard": {
+        "brand": "GIGABYTE",
+        "model": "ROG STRIX Z790-F GAMING WIFI",
+        "price": 309.99,
+        "size": "ATX",
+        "hasWifi": true
+      },
+      "storage": {
+        "brand": "Western Digital",
+        "model": "My Passport SSD",
+        "price": 359.99,
+        "capacityGB": 2000,
+        "speedMBps": 1050
+      }
+    },
+    "additionalHardware": {
+      "hasFingerprintScanner": false,
+      "hasTouchscreen": false,
+      "has360Hinge": false
+    }
+  }
+}

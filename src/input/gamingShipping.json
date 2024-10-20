@@ -1,0 +1,99 @@
+{
+  "orderStatus": {
+    "currentStatus": "transparent",
+    "statusNumber": -1
+  },
+  "quantity": 3,
+  "type": "shipping",
+  "customerInfo": {
+    "firstName": "Collin",
+    "lastName": "Stracke",
+    "email": "Collin_Stracke@yahoo.ca",
+    "phoneNumber": "(559)840-5112 x456",
+    "address": "35103 Moen Landing, West Brennamouth, ON M0E 1A9, Canada"
+  },
+  "shippingInfo": {
+    "billingAddress": "35103 Moen Landing, West Brennamouth, ON M0E 1A9, Canada",
+    "shippingAddress": "14595 Stuart Park, Crooksmouth, NS B3J 7X0, Canada",
+    "shippingCompany": "Canpar"
+  },
+  "computer": {
+    "type": "gaming",
+    "primaryHardware": {
+      "CPU": {
+        "brand": "Ryzen",
+        "model": "Ryzen 7 2700",
+        "price": 299,
+        "cores": 8,
+        "threads": 16,
+        "processingSpeed": 3.2
+      },
+      "GPU": {
+        "brand": "Nvidia",
+        "model": "GeForce RTX 3080 Ti",
+        "price": 1199,
+        "rayTracing": true,
+        "clockSpeed": 1.67,
+        "VRAM": 12
+      },
+      "RAM": {
+        "brand": "Kingston",
+        "brand": "Kingston",
+        "model": "HyperX Predator",
+        "price": 249.99,
+        "capacity": 64,
+        "speedMHz": 5000,
+        "type": "DDR5"
+      },
+      "motherboard": {
+        "brand": "GIGABYTE",
+        "model": "Z790 AORUS ELITE AX",
+        "price": 229.99,
+        "size": "ATX",
+        "hasWifi": true
+      },
+      "storage": {
+        "brand": "Samsung",
+        "model": "860 Pro",
+        "price": 636.9,
+        "capacityGB": 2000,
+        "speedMBps": 560
+      }
+    },
+    "computerCase": {
+      "brand": "DeepCool",
+      "model": "CC360 ARGB",
+      "price": 69.99,
+      "size": "Micro-ATX",
+      "material": "SGCC Steel, Clear Tempered Glass",
+      "colour": "tan"
+    },
+    "cooler": {
+      "brand": "DeepCool",
+      "model": "CG560",
+      "price": 109.99,
+      "rpm": 1800,
+      "type": "air",
+      "fanCount": 1,
+      "colour": "black"
+    },
+    "powerSupply": {
+      "brand": "Corsair",
+      "model": "RM Series RM750",
+      "price": 179.68,
+      "wattage": 750
+    },
+    "additionalHardware": {
+      "hasRgbStrips": true,
+      "extraFansCount": 2,
+      "additionalStorage": {
+        "brand": "Kingston",
+        "model": "XS2000",
+        "price": 449.99,
+        "capacityGB": 4000,
+        "speedMBps": 2000
+      },
+      "useNoiseCancellingFans": false
+    }
+  }
+}
