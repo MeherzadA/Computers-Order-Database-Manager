@@ -4,7 +4,7 @@ Created by: [Daniel Li](https://github.com/dniael), [Stanley Gu](https://github.
 ## Project Overview
 
 
-This project was created as part of our ICS4U culminating project. Our goal was to build a **Computer Order Management System** for a computer building company. The system manages customer orders for both PCs and laptops, tracks their specific components, and keeps information about the order status (completed, canceled, shipped, etc.).
+This project was created as part of our ICS4U (Grade 12 Computer Science) culminating project. Our goal was to build a **Computer Order Management System** for a computer building company. The system manages customer orders for both PCs and laptops, tracks their specific components, and keeps information about the order status (completed, canceled, shipped, etc.).
 
 ![Overview Screenshot](./images/overview.png)  
 *(Screenshot of the main menu of the application)*
@@ -49,6 +49,7 @@ You can view more screenshots in the gallery below:
 ![Gallery Screenshot 2](./images/gallery2.png)  
 ![Gallery Screenshot 3](./images/gallery3.png)
 also include screenshot of the UML diagram lol
+
 
 _(Add more screenshots as needed)_
 
